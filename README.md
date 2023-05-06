@@ -1,1 +1,1 @@
-Here's the HW in NTU 2023 Machine Learning Course by Prof. Hung-yi Lee. Doing by a senior high school student so the predictions of test data which are create by the model here may not be good. But all passed medium baseline.
+Here's the HW in NTU 2023 Machine Learning Course by Prof. Hung-yi Lee. Doing by a senior high school student, so the predictions of test data which are produced by the models here may not be good. But all passed medium baseline.
