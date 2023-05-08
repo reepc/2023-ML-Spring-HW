@@ -4,3 +4,6 @@ Here's the course's link https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php,
 Notice all the models' code here are from sample code.
 
 If you use codes here not, please write the reference.
+
+The Score:
+HW4's private score can pass strong baseline 
