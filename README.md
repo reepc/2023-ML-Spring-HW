@@ -8,8 +8,6 @@ If you use codes here not, please write the reference.
 The Score:
 HW4's private score can pass strong baseline 
 
-The homework I don't have permission to submit:
-
-HW4
-
-HW5
+The homework I don't have permission to submit:  
+HW4  
+HW5  
