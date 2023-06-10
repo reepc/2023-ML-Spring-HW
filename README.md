@@ -7,3 +7,4 @@ If you use codes here not, please write the reference.
 
 The Score:
 HW4's private score can pass strong baseline 
+HW5 and HW6 need to submit to Judgeboi, but I don't have permission to submit.
